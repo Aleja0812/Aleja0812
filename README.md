@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-github.png" alt="GitHub Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm María Alejandra Ibarra Gómez</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Tableau</h3>
 
